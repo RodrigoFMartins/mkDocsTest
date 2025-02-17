@@ -2,6 +2,7 @@
 tags:
   - Linux
 ---
+teste edit
 Para realizar a instalação do Ansible numa nova máquina (master), devem realizar-se os seguintes passos:
 1. Criar um user "ansible" e gerar chaves SSH.
 	1. Criar o user "ansible":
